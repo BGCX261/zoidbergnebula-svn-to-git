@@ -1,0 +1,11 @@
+200000 Denard Robinson
+150000 Kevin Porter
+100000 Mike Hart
+89098 Dan
+80000 Chad Henne
+60000 Red Berenson
+40000 Carl Hagelin
+10000 Rich Rodriguez
+-10 Nick Sheridan
+-1000 Michigan Defense
+
